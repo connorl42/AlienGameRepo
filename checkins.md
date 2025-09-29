@@ -2,7 +2,7 @@
 
 ### This week I worked on:
 
-This week I worked on creating a schedule for which tasks I plan to accomplish each week this semester. The goal of having this plan is to help me stay on schedule for the tasks I plan to accomplish each week.I also created my empty project in Unreal Engine and imported several large asset packs that I can use to begin creating the first enviroment for my game. Creating thenenviroment for the first few quests in my game is my main objective for weeks 2 and 3.  
+This week I worked on creating a schedule for which tasks I plan to accomplish each week this semester. The goal of having this plan is to help me stay on schedule for the tasks I plan to accomplish each week.I also created my empty project in Unreal Engine and imported several large asset packs that I can use to begin creating the first enviroment for my game. Creating the environment for the first few quests in my game is my main objective for weeks 2 and 3.  
 
 ### This week I learned:
 
@@ -10,11 +10,11 @@ This week, most of my work involved processes I am alredy familiar with. I did c
 
 ### My successes this week were:
 
-This week, I managed to find a few more assets to use for my first enviroment than I planned. Finding optimized game assets for free can be challenging, so I am pleased with my progress there.
+This week, I managed to find a few more assets to use for my first enviroment that I planned. Finding optimized game assets for free can be challenging, so I am pleased with my progress there.
 
 ### The challenges I faced this week were:
 
-I have been struggling to estimate how long tasks will take me, which makes it difficult to create my weekly sprints. I am also trying to write quests for the gameplay, which has been more challenging than I realized it would be. It is one thing to write a plot, but of it's boring, it defeats rhe entire purpose. 
+I have been struggling to estimate how long tasks will take me, which makes it difficult to create my weekly sprints. I am also trying to write quests for the gameplay, which has been more challenging than I realized it would be. It is one thing to write a plot, but if it's boring, it defeats rhe entire purpose. 
 
 ---
 
