@@ -14,7 +14,7 @@ This week, I managed to find a few more assets to use for my first enviroment th
 
 ### The challenges I faced this week were:
 
-I have been struggling to estimate how long tasks will take me, which makes it difficult to create my weekly sprints. I am also trying to write quests for the gameplay, which has been more challenging than I realized it would be. It is one thing to write a plot, but if it's boring, it defeats rhe entire purpose. 
+I have been struggling to estimate how long tasks will take me, which makes it difficult to create my weekly sprints. I am also trying to write quests for the gameplay, which has been more challenging than I realized it would be. It is one thing to write a plot, but if it's boring, it defeats the entire purpose. 
 
 ---
 
