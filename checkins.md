@@ -18,22 +18,22 @@ I have been struggling to estimate how long tasks will take me, which makes it d
 
 ---
 
-## Week 2 Summary (MM/DD/YYYY)
+## Week 2 Summary (10/06/2025)
 ### This week I worked on:
 
-[Your answer here]
+This week I added some selected assets to my project and started working on a custom charqcter controller script for my player character. I did not accomplosh as much as I would have liked since I have been busy and it took several hours to get my enviroment setup done. 
 
 ### This week I learned:
 
-[Your answer here]
+This week I learned some of the syntax specific to Unreal Engine while working on my new C++ scripts. I also experiemented a bit with making modifications in the code vs the engine's built in blueprints. 
 
 ### My successes this week were:
 
-[Your answer here]
+I managed to get Visual Studio connected to Unreal. It was more difficul than I expected and required me to install several plugins. I also have my project backing up on Onedrive now.
 
 ### The challenges I faced this week were:
 
-[Your answer here]
+I struggled with setting up my Github Repo for my project since Github has a max free storage amount way less than the size of the template files for one project in Unreal (roughly 5GB). For now, I decided to just copy over my unique .h and .cpp files to my repo and keep it in a seperate location on my PC. 
 
 ---
 
