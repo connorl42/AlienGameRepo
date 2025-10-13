@@ -29,7 +29,7 @@ This week I learned some of the syntax specific to Unreal Engine while working o
 
 ### My successes this week were:
 
-I managed to get Visual Studio connected to Unreal. It was more difficul than I expected and required me to install several plugins. I also have my project backing up on Onedrive now.
+I managed to get Visual Studio connected to Unreal. It was more difficult than I expected and required me to install several plugins. I also have my project backing up on Onedrive now.
 
 ### The challenges I faced this week were:
 
@@ -37,22 +37,22 @@ I struggled with setting up my Github Repo for my project since Github has a max
 
 ---
 
-## Week 3 Summary (MM/DD/YYYY)
+## Week 3 Summary (10/13/2025)
 ### This week I worked on:
 
-[Your answer here]
+This week I began to build the preliminary architecture for my Player Stats. I built a genreal HP script that will serve as the parent class later to the Player HP script and all the enemy Stat scripts. 
 
 ### This week I learned:
 
-[Your answer here]
+This week I learned the basics of the built-in UI editor in Unreal and how to visially display inforamtion from scripts on the UI, such as player stats. I also started a custom 3rd person camera script. 
 
 ### My successes this week were:
 
-[Your answer here]
+I found several really good tutorial playlists on YouTube that I should be able to utilize for the next few weeks of work I have planned. These tutorials also appear to use better practices than others I found. 
 
 ### The challenges I faced this week were:
 
-[Your answer here]
+Most of my challenges this week were non-technical and more about time-management. I did not accomplish as much I would have liked due to heavy workloads in my other classes. 
 
 ---
 
