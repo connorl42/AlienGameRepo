@@ -40,11 +40,11 @@ I struggled with setting up my Github Repo for my project since Github has a max
 ## Week 3 Summary (10/13/2025)
 ### This week I worked on:
 
-This week I began to build the preliminary architecture for my Player Stats. I built a genreal HP script that will serve as the parent class later to the Player HP script and all the enemy Stat scripts. 
+This week I began to build the preliminary architecture for my Player Stats. I built a general HP script that will serve as the parent class later to the Player HP script and all the enemy Stat scripts. 
 
 ### This week I learned:
 
-This week I learned the basics of the built-in UI editor in Unreal and how to visially display inforamtion from scripts on the UI, such as player stats. I also started a custom 3rd person camera script. 
+This week I learned the basics of the built-in UI editor in Unreal and how to visually display inforamtion from scripts on the UI, such as player stats. I also started a custom 3rd person camera script. 
 
 ### My successes this week were:
 
