@@ -56,22 +56,22 @@ Most of my challenges this week were non-technical and more about time-managemen
 
 ---
 
-## Week 4 Summary (MM/DD/YYYY)
+## Week 4 Summary (10/20/2025)
 ### This week I worked on:
 
-[Your answer here]
+This week I worked on the movement system for my player character in my game. I added an asset I bought a while back as the first playable character form the user will have in the game. I also changed the default collider to fit the non-humanoid shape of the playable character. 
 
 ### This week I learned:
 
-[Your answer here]
+Thi sweek I learned the basics of Unreal Engine's new input sytem, which was strikingly similar to Unity's modern input system. It made programmable action events very easy to assign to input options and types. One thing I found interesting is that 3D models and the camera operateon different planes in Unreal. Put simply, the X and Y axis for each is flipped so you have to convert the axis when working with both. This conversion was necessary for me to make the camera follow the direction the player model is facing in the game. 
 
 ### My successes this week were:
 
-[Your answer here]
+My main success this week was getting the player character to move in four directions, jump, and run with keyboard or gamepad controls. 
 
 ### The challenges I faced this week were:
 
-[Your answer here]
+My primary challenges this week had to do with adapting to Visual Studio instead of Rider. After graduation, I don't want to pay for an IDE so I want to gert better with VS. That said, even the basic stuff I was doing this week threw strange erros sometimes that would resovle by closing and restarting. If those types of issues persist, I may switch back to avoid wasting time. I lost at least 45 minutes this week just navigating IDE issues, unfortunately. 
 
 ---
 
