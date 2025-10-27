@@ -75,22 +75,22 @@ My primary challenges this week had to do with adapting to Visual Studio instead
 
 ---
 
-## Week 5 Summary (MM/DD/YYYY)
+## Week 5 Summary (10/27/2025)
 ### This week I worked on:
 
-[Your answer here]
+This week I worked a bit more on the player input controls. I also configured more of the animations for the starting player character. 
 
 ### This week I learned:
 
-[Your answer here]
+This week I learned a bit more about Unreal Engine's animation system and their animation transition tree. 
 
 ### My successes this week were:
 
-[Your answer here]
+Honestly, working on my project at all given how busy I was with other classes. 
 
 ### The challenges I faced this week were:
 
-[Your answer here]
+I struggled to manage my time well last week and did not make nearly as much progress as I had hoped. Next week will also be a challenge in this regard, so I will need to block off time on my calendar specifically for this project. 
 
 ---
 
