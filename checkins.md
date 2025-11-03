@@ -94,22 +94,22 @@ I struggled to manage my time well last week and did not make nearly as much pro
 
 ---
 
-## Week 6 Summary (MM/DD/YYYY)
+## Week 6 Summary (11/3/2025)
 ### This week I worked on:
 
-[Your answer here]
+This week I shifted back toward working on the enviroment. My work mostly involved aligning modular assets on the world grid. 
 
 ### This week I learned:
 
-[Your answer here]
+Nothing I worked on this week was new to me, but the practice I did in level design and assembly helepd me become faster at alligning assets correctly so the 3D shapes don't overlap.
 
 ### My successes this week were:
 
-[Your answer here]
+I now have a functional space for the first few player objectives in my game's story. This will make it signifcantly easier for me to implement the gameplay scripts and objects for the first few objectives of the game. 
 
 ### The challenges I faced this week were:
 
-[Your answer here]
+By far the most diffucult aspect of level design using modular assets is avoiding overlap of the edges of 3D objects. I can usually make this process more straightforward by adjusitng the assets to have more "round number" dimensions so I can adjudt their positions numerically. For example, it's significantly easier to move a floor tile to x = 1 than x = 0.89967. High signifant figures are a nightmare to work with for object dimensions and positions.  
 
 ---
 
