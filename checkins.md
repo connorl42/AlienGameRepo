@@ -113,22 +113,22 @@ By far the most diffucult aspect of level design using modular assets is avoidin
 
 ---
 
-## Week 7 Summary (MM/DD/YYYY)
+## Week 7 Summary (11/10/2025)
 ### This week I worked on:
 
-[Your answer here]
+This week I contined working on the locomotion script for my player character. I added directional motion for mouse/keyobard controls and gamepad controls. 
 
 ### This week I learned:
 
-[Your answer here]
+This week I learned about some of Unreal's built in math functions, which are actually different than the math library in C++. You can technically use either, but best practices for Unreal often involve using the engine's math structures. 
 
 ### My successes this week were:
 
-[Your answer here]
+I made a bit of progress this week at all, which is a win for me at this time. 
 
 ### The challenges I faced this week were:
 
-[Your answer here]
+This week I began to think about how the velocity vectors responsible for my player character's motion and jumping may need to be modified once the player's model changes. I am still trying to determine how to best architecture this and weighing between possible code duplication or simplicity. 
 
 ---
 
