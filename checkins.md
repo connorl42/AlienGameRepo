@@ -132,22 +132,22 @@ This week I began to think about how the velocity vectors responsible for my pla
 
 ---
 
-## Week 8 Summary (MM/DD/YYYY)
+## Week 8 Summary (11/17/2025)
 ### This week I worked on:
 
-[Your answer here]
+This week I did not ahve time to work on much. I worked a bit on my schematics for the UI I will continue working on, bit did not moe any new code changes this week due to time constraints. 
 
 ### This week I learned:
 
-[Your answer here]
+This week I did not work on anything new to me. I did do some research on what other games have done for their gameplay focused UIs to get some inspiration. 
 
 ### My successes this week were:
 
-[Your answer here]
+I added several draft images to my schematic document to serve as guides for what my remaining UIs will look like. 
 
 ### The challenges I faced this week were:
 
-[Your answer here]
+Mostly time contraints. This week will also be diffucult since I have two exams Friday and my biology thesis due Friday, I plan to accomplish a lot over Thanksgiving break. 
 
 ---
 
