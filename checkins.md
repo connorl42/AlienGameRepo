@@ -2,15 +2,15 @@
 
 ### This week I worked on:
 
-This week I worked on creating a schedule for which tasks I plan to accomplish each week this semester. The goal of having this plan is to help me stay on schedule for the tasks I plan to accomplish each week.I also created my empty project in Unreal Engine and imported several large asset packs that I can use to begin creating the first enviroment for my game. Creating the environment for the first few quests in my game is my main objective for weeks 2 and 3.  
+This week I worked on creating a schedule for which tasks I plan to accomplish each week this semester. The goal of having this plan is to help me stay on schedule for the tasks I plan to accomplish each week. I also created my empty project in Unreal Engine and imported several large asset packs that I can use to begin creating the first environment for my game. Creating the environment for the first few quests in my game is my main objective for weeks 2 and 3.  
 
 ### This week I learned:
 
-This week, most of my work involved processes I am alredy familiar with. I did change a few graphical settings in Unreal when setting up my project that were new to me. These changed were to lower the graphical quality and lighting presets so my PC doesn't sound like a steam engine each time I go to open my project.
+This week, most of my work involved processes I am already familiar with. I did change a few graphical settings in Unreal when setting up my project that were new to me. These changed were to lower the graphical quality and lighting presets so my PC doesn't sound like a steam engine each time I go to open my project.
 
 ### My successes this week were:
 
-This week, I managed to find a few more assets to use for my first enviroment that I planned. Finding optimized game assets for free can be challenging, so I am pleased with my progress there.
+This week, I managed to find a few more assets to use for my first environment that I planned. Finding optimized game assets for free can be challenging, so I am pleased with my progress there.
 
 ### The challenges I faced this week were:
 
@@ -21,11 +21,11 @@ I have been struggling to estimate how long tasks will take me, which makes it d
 ## Week 2 Summary (10/06/2025)
 ### This week I worked on:
 
-This week I added some selected assets to my project and started working on a custom charqcter controller script for my player character. I did not accomplosh as much as I would have liked since I have been busy and it took several hours to get my enviroment setup done. 
+This week I added some selected assets to my project and started working on a custom character controller script for my player character. I did not accomplish as much as I would have liked since I have been busy and it took several hours to get my environment setup done. 
 
 ### This week I learned:
 
-This week I learned some of the syntax specific to Unreal Engine while working on my new C++ scripts. I also experiemented a bit with making modifications in the code vs the engine's built in blueprints. 
+This week I learned some of the syntax specific to Unreal Engine while working on my new C++ scripts. I also experimented a bit with making modifications in the code vs the engine's built in blueprints. 
 
 ### My successes this week were:
 
@@ -33,7 +33,7 @@ I managed to get Visual Studio connected to Unreal. It was more difficult than I
 
 ### The challenges I faced this week were:
 
-I struggled with setting up my Github Repo for my project since Github has a max free storage amount way less than the size of the template files for one project in Unreal (roughly 5GB). For now, I decided to just copy over my unique .h and .cpp files to my repo and keep it in a seperate location on my PC. 
+I struggled with setting up my Github Repo for my project since Github has a max free storage amount way less than the size of the template files for one project in Unreal (roughly 5GB). For now, I decided to just copy over my unique .h and .cpp files to my repo and keep it in a separate location on my PC. 
 
 ---
 
@@ -44,7 +44,7 @@ This week I began to build the preliminary architecture for my Player Stats. I b
 
 ### This week I learned:
 
-This week I learned the basics of the built-in UI editor in Unreal and how to visually display inforamtion from scripts on the UI, such as player stats. I also started a custom 3rd person camera script. 
+This week I learned the basics of the built-in UI editor in Unreal and how to visually display information from scripts on the UI, such as player stats. I also started a custom 3rd person camera script. 
 
 ### My successes this week were:
 
@@ -63,7 +63,7 @@ This week I worked on the movement system for my player character in my game. I 
 
 ### This week I learned:
 
-Thi sweek I learned the basics of Unreal Engine's new input sytem, which was strikingly similar to Unity's modern input system. It made programmable action events very easy to assign to input options and types. One thing I found interesting is that 3D models and the camera operateon different planes in Unreal. Put simply, the X and Y axis for each is flipped so you have to convert the axis when working with both. This conversion was necessary for me to make the camera follow the direction the player model is facing in the game. 
+This week I learned the basics of Unreal Engine's new input system, which was strikingly similar to Unity's modern input system. It made programmable action events very easy to assign to input options and types. One thing I found interesting is that 3D models and the camera operate on different planes in Unreal. Put simply, the X and Y axis for each is flipped so you have to convert the axis when working with both. This conversion was necessary for me to make the camera follow the direction the player model is facing in the game. 
 
 ### My successes this week were:
 
@@ -71,7 +71,7 @@ My main success this week was getting the player character to move in four direc
 
 ### The challenges I faced this week were:
 
-My primary challenges this week had to do with adapting to Visual Studio instead of Rider. After graduation, I don't want to pay for an IDE so I want to gert better with VS. That said, even the basic stuff I was doing this week threw strange erros sometimes that would resovle by closing and restarting. If those types of issues persist, I may switch back to avoid wasting time. I lost at least 45 minutes this week just navigating IDE issues, unfortunately. 
+My primary challenges this week had to do with adapting to Visual Studio instead of Rider. After graduation, I don't want to pay for an IDE so I want to get better with VS. That said, even the basic stuff I was doing this week threw strange erros sometimes that would resolve by closing and restarting. If those types of issues persist, I may switch back to avoid wasting time. I lost at least 45 minutes this week just navigating IDE issues, unfortunately. 
 
 ---
 
@@ -97,11 +97,11 @@ I struggled to manage my time well last week and did not make nearly as much pro
 ## Week 6 Summary (11/3/2025)
 ### This week I worked on:
 
-This week I shifted back toward working on the enviroment. My work mostly involved aligning modular assets on the world grid. 
+This week I shifted back toward working on the environment. My work mostly involved aligning modular assets on the world grid. 
 
 ### This week I learned:
 
-Nothing I worked on this week was new to me, but the practice I did in level design and assembly helepd me become faster at alligning assets correctly so the 3D shapes don't overlap.
+Nothing I worked on this week was new to me, but the practice I did in level design and assembly helepd me become faster at aligning assets correctly so the 3D shapes don't overlap.
 
 ### My successes this week were:
 
@@ -109,14 +109,14 @@ I now have a functional space for the first few player objectives in my game's s
 
 ### The challenges I faced this week were:
 
-By far the most diffucult aspect of level design using modular assets is avoiding overlap of the edges of 3D objects. I can usually make this process more straightforward by adjusitng the assets to have more "round number" dimensions so I can adjudt their positions numerically. For example, it's significantly easier to move a floor tile to x = 1 than x = 0.89967. High signifant figures are a nightmare to work with for object dimensions and positions.  
+By far the most difficult aspect of level design using modular assets is avoiding overlap of the edges of 3D objects. I can usually make this process more straightforward by adjusitng the assets to have more "round number" dimensions so I can adjust their positions numerically. For example, it's significantly easier to move a floor tile to x = 1 than x = 0.89967. High significant figures are a nightmare to work with for object dimensions and positions.  
 
 ---
 
 ## Week 7 Summary (11/10/2025)
 ### This week I worked on:
 
-This week I contined working on the locomotion script for my player character. I added directional motion for mouse/keyobard controls and gamepad controls. 
+This week I continued working on the locomotion script for my player character. I added directional motion for mouse/keyboard controls and gamepad controls. 
 
 ### This week I learned:
 
@@ -135,7 +135,7 @@ This week I began to think about how the velocity vectors responsible for my pla
 ## Week 8 Summary (11/17/2025)
 ### This week I worked on:
 
-This week I did not ahve time to work on much. I worked a bit on my schematics for the UI I will continue working on, bit did not moe any new code changes this week due to time constraints. 
+This week I did not have time to work on much. I worked a bit on my schematics for the UI I will continue working on, bit did not more any new code changes this week due to time constraints. 
 
 ### This week I learned:
 
@@ -147,7 +147,7 @@ I added several draft images to my schematic document to serve as guides for wha
 
 ### The challenges I faced this week were:
 
-Mostly time contraints. This week will also be diffucult since I have two exams Friday and my biology thesis due Friday, I plan to accomplish a lot over Thanksgiving break. 
+Mostly time constraints. This week will also be difficult since I have two exams Friday and my biology thesis due Friday, I plan to accomplish a lot over Thanksgiving break. 
 
 ---
 
