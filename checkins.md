@@ -151,60 +151,60 @@ Mostly time constraints. This week will also be difficult since I have two exams
 
 ---
 
-## Week 9 Summary (MM/DD/YYYY)
+## Week 9 Summary (11/24/2025)
 ### This week I worked on:
 
-[Your answer here]
+This week, I worked on creating a new project in Unreal Engine and moving all my code over from the old project to the new project. I did this so that I could finally link my progress to my GitHub repository.
 
 ### This week I learned:
 
-[Your answer here]
+This week, I dug into the files of my project and deduced from which packages I imported what assets were taking up the most space. I made sure not to move these over to my new project when I didn't need them. 
 
 ### My successes this week were:
 
-[Your answer here]
+I was able to successfully create a gitingnore file I believe will be useful for my repository and create a new Unreal project that I will actually link to my repository. 
 
 ### The challenges I faced this week were:
 
-[Your answer here]
+My main challenge was creating a comprehensive enough Gitignore file to be useful for my project. There were lots of files I needed to ignore, but some files of types I had ignored needed to be included. This meant I had to cite those directories as files to not be ignored, which added a layer of complexity. I also had to comb through every asset in my project and determine what I needed to carry over, which was time-consuming. 
 
 ---
 
-## Week 10 Summary (MM/DD/YYYY)
+## Week 10 Summary (12/1/2025)
 ### This week I worked on:
 
-[Your answer here]
+This week, I finally pushed my new project from last week into my repository. I also created all of the basic movements for my first player character and added a few simple animations to demonstrate its movement for my first sprint presentation.  
 
 ### This week I learned:
 
-[Your answer here]
+This week, I learned how to use the enhanced input system in Unreal and how to call several built-in movement functions for player character objects. 
 
 ### My successes this week were:
 
-[Your answer here]
+My successes this week were the amount of time I put into my project over Thanksgiving break and the amount of progress I was able to show off during my sprint presentation. Despite my overall progress toward the MVP not being much, I was able to produce enough over break to have something interesting to discuss and present. 
 
 ### The challenges I faced this week were:
 
-[Your answer here]
+I did not encounter too many challenges this week. I had sufficient time to do what I wanted and am pleased with the progress I made over break. 
 
 ---
 
-## Week 11 Summary (MM/DD/YYYY)
+## Week 11 Summary (12/8/2025)
 ### This week I worked on:
 
-[Your answer here]
+This week, I did not work on the project itself since I left my PC at home for the remainder of the semester. What I was able to do was add to the script for soe of the quests and cutscenes my game will have. 
 
 ### This week I learned:
 
-[Your answer here]
+I did not do anything new this week with the game engine or programming, so did not pick up any new skills this week.  
 
 ### My successes this week were:
 
-[Your answer here]
+I am content that I was able to dedicate even a few hours to this project this week. The past week has been quite hectic with other classes and finals, so any time put in was a success to me. 
 
 ### The challenges I faced this week were:
 
-[Your answer here]
+Not having my PC on campus prevented me from working in the game engine or on any code for my project. As such, my work was limited to planning work this week. 
 
 ---
 
