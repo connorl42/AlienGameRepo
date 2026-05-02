@@ -1,4 +1,9 @@
-USTRUCT()
+#pragma once
+
+#include "CoreMinimal.h"
+#include "FPlayerData.generated.h"
+
+USTRUCT(BlueprintType)
 struct FPlayerData
 {
     GENERATED_BODY()

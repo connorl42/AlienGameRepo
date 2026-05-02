@@ -11,12 +11,12 @@ class ALIENGAMEFIN_API UMySaveGame : public USaveGame
 	
 public:
 	
-    UPROPERTY()
+    //UPROPERTY()
     //FPlayerData PlayerData;
 
-    UPROPERTY()
+    //UPROPERTY()
     //TMap<FString, FLevelSaveData> WorldData;
 
-    UPROPERTY()
+    //UPROPERTY()
     //FInventoryData InventoryData;
 };
