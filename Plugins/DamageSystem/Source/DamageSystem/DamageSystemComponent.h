@@ -5,6 +5,11 @@
 #include "DamageSystemTypes.h"
 #include "DamageSystemComponent.generated.h"
 
+DECLARE_DYNAMIC_MULTICAST_DELEGATE_OneParam(FOnDamageTaken, const FDamageInfo&, FDamageInfo);
+DECLARE_DYNAMIC_MULTICAST_DELEGATE_OneParam(FOnDamageAvoided, const FDamageInfo&, FDamageInfo);
+DECLARE_MULTICAST_DELEGATE_TwoParams(FOnHealReceived, float HealAmount, AActor* Healer);
+DECLARE_DYNAMIC_MULTICAST_DELEGATE(FOnDeath);
+
 UCLASS(ClassGroup=(Custom), meta=(BlueprintSpawnableComponent))
 class DAMAGESYSTEM_API UDamageSystemComponent : public UActorComponent
 {
@@ -65,4 +70,20 @@ public:
 	
 	UFUNCTION(BlueprintCallable, Category = "States")
 	void SetIsBlocking(bool NewBlocking) { IsBlocking = NewBlocking; };
+	
+	UFUNCTION(BlueprintCallable, Category = "Health")
+	void SetStartingHealth(float StartingHealth);
+	
+	//Delegates
+	UPROPERTY(BlueprintAssignable, Category = "Damage Delegates")
+	FOnDamageTaken OnDamageTaken;
+	
+	UPROPERTY(BlueprintAssignable, Category = "Damage Delegates")
+	FOnDamageAvoided OnDamageAvoided;
+	
+	UPROPERTY(BlueprintAssignable, Category = "Damage Delegates")
+	FOnDeath OnDeath;
+	
+	/*UPROPERTY(BlueprintAssignable, Category = "Damage Delegates")
+	FOnHealReceived OnHealReceived;*/
 };

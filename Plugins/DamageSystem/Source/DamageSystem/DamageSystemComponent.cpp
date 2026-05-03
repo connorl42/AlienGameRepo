@@ -25,10 +25,20 @@ bool UDamageSystemComponent::HandleIncomingDamage(const FDamageInfo& DamageInfo)
 {
 	if (IsDead) {return false;}
 	if ((IsInvincible && !DamageInfo.ShouldDamageInvincible) || (IsBlocking && DamageInfo.CanBeBlocked))
-	{return false;}
+	{
+		OnDamageAvoided.Broadcast(DamageInfo);
+		return false;
+	}
 	
 	//else
 	CurrentHealth = FMath::Clamp(CurrentHealth - DamageInfo.DamageAmount, 0.0f, MaxHealth);
+	//OnHealReceived.Broadcast(HealAmount, Healer);
+	OnDamageTaken.Broadcast(DamageInfo);
+	if (CurrentHealth <= 0.0f)
+	{
+		IsDead = true;
+		OnDeath.Broadcast();
+	}
 	return true;
 }
 
@@ -36,6 +46,12 @@ void UDamageSystemComponent::HandleIncomingHeal(float HealAmount, AActor* Healer
 {
 	if (IsDead) {return;}
 	CurrentHealth = FMath::Clamp(CurrentHealth + HealAmount, 0.0f, MaxHealth);
+}
+
+void UDamageSystemComponent::SetStartingHealth(float StartingHealth)
+{
+	MaxHealth = StartingHealth;
+	CurrentHealth = StartingHealth;
 }
 
 
