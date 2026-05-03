@@ -44,6 +44,9 @@ public:
 	bool ShouldForceInterrupt = false;
 	
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Damage")
+	bool ShouldDamageInvincible = false;
+	
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Damage")
 	EDamageType DamageType = EDamageType::None;
 	
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Damage")
